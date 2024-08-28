@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Snake game, written in Go and running in the terminal.
 
-![Snake Game Gameplay](path_to_your_gif_file.gif)
+![Snake Game Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo2ZzJnemJqb3c4eHE1ZHZhcmM5enVta2R6NWxwNDlkMWo4NGh6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33cyCz3nShHjRKtIle/giphy.gif)
 
 ## Description
 
