@@ -24,7 +24,7 @@ This project is a basic implementation of the Snake game that runs in the termin
 
 3. Navigate to the project directory:
    ```
-   cd yet-another-snake-game
+   cd snake
    ```
 
 4. Run the game:
